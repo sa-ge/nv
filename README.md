@@ -1,5 +1,5 @@
 # nv
-# Source https://www.reddit.com/r/debian/comments/gantqb/nvidia_driver_installation_problem_in_debian/
+Source https://www.reddit.com/r/debian/comments/gantqb/nvidia_driver_installation_problem_in_debian/
 
 Nvidia Driver Installation on Debian Buster
 
