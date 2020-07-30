@@ -1,4 +1,5 @@
 # nv
+# Source https://www.reddit.com/r/debian/comments/gantqb/nvidia_driver_installation_problem_in_debian/
 
 Nvidia Driver Installation on Debian Buster
 
@@ -135,3 +136,5 @@ Installing steam - https://wiki.debian.org/Steam
 #sudo apt install nvidia-vulkan-common nvidia-vulkan-icd nvidia-vulkan-icd:i386
 
 From steam Library - select the game ---> manage ---> properties ---> set launch options to "primusrun %command%" 
+
+
