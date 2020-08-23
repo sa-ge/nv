@@ -1,6 +1,6 @@
 # nv
 
-the complete instruction in how to install Nvidia Drivers in Debian 10 for Hybird GBU  
+the complete instructions in how to install Nvidia Drivers in Debian 10 for Hybird GBU  
 
 Source https://www.reddit.com/r/debian/comments/gantqb/nvidia_driver_installation_problem_in_debian/
 
